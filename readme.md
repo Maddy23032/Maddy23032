@@ -7,8 +7,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maddy23032&theme=onedark" width="45%" alt="Productive Time"/>
   <br>
   <br>
-  <img src="https://github.com/QuincyThawne/QuincyThawne/blob/main/yuji%20itadori.gif" alt="yuji gif" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maddy23032&theme=dracula" width="47%" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maddy23032&theme=monokai" width="47%" alt="Streak Stats"/>
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Maddy23032&show_icons=true&locale=en&theme=highcontrast" width="45%" alt="GitHub Stats"/>
